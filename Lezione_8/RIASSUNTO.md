@@ -30,3 +30,6 @@
 - Significato di stride e padding sull'output.
 - Perche' la condivisione dei pesi riduce i parametri.
 - Idea base di stato nascosto nelle reti ricorrenti.
+
+## Risorse extra
+- *Dive into Deep Learning* (https://d2l.ai/) — libro gratuito online, utile per CNN (cap. 7) e RNN (cap. 9-10).
